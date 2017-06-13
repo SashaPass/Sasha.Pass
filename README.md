@@ -1,3 +1,3 @@
 # about-me
-I have 5 years of experience in the IT industry. During my career I have gained significant experience and training in analytics, process Improvement, data science, product management, python programming, growth hacking, agile, lean six sigma, developer advocacy, project management and change management.
+During my 5 years at IBM I have gained significant experience in Data Analytics and Project Management. I have worked with service delivery teams and software product teams to implement meaningful business analysis, process improvement, defect prevention, and transformation initiatives.
 I also have 3 years experience in Healthcare and Insurance working directly with patients, insurance companies, and interested parties to improve patient care.
