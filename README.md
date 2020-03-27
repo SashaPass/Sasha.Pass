@@ -13,7 +13,7 @@ Before IBM I was in the healthcare industry working directly with patients, insu
 
 | Above all else, I am a wife and a proud mother of 3 beautiful children (Shamar, Shayla & Samaya) |
 | --- |
-| ![](https://user-images.githubusercontent.com/26466943/77710358-c55c5c80-6f9b-11ea-98b0-9ee394c4a258.jpg) |
+| ![](https://user-images.githubusercontent.com/26466943/77710816-0a34c300-6f9d-11ea-8b0a-5557cc11d676.png) |
 
 
 
