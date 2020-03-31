@@ -2,7 +2,7 @@
 <img width="178" alt="profilepic" src="https://user-images.githubusercontent.com/26466943/77710379-d1481e80-6f9b-11ea-93bd-fc592fe9efd7.JPG">
 
 
-I have been with IBM for almost 8 years. I have worked in multiple areas, including service delivery, product management, and developer advocacy. My roles have involved data science, process improvement, lean six sigma, agile, project management, finance, event management, and professional coaching. 
+I have been in the IT industry for 8 years. I have worked in multiple areas, including service delivery, product management, and developer advocacy. My roles have involved data science, process improvement, lean six sigma, agile, project management, finance, event management, and professional coaching. 
 
 <a href="https://app.wiseher.com/listing/sasha-pass.html"><img height='200' width='200' src='https://app.wiseher.com/custom/domain_1/content_files/badge.png' alt='wiseher'></a>
 
