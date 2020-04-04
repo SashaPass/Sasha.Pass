@@ -4,10 +4,9 @@
 
 I have been in the IT industry for 8 years. I have worked in multiple areas, including service delivery, product management, and developer advocacy. My roles have involved data science, process improvement, lean six sigma, agile, project management, finance, event management, and professional coaching. 
 
-<a href="https://app.wiseher.com/listing/sasha-pass.html"><img height='200' width='200' src='https://app.wiseher.com/custom/domain_1/content_files/badge.png' alt='wiseher'></a>
-
-
 I have also worked in the healthcare industry working directly with patients, insurance companies, and interested parties to improve patient care.
+
+<a href="https://app.wiseher.com/listing/sasha-pass.html"><img height='200' width='200' src='https://app.wiseher.com/custom/domain_1/content_files/badge.png' alt='wiseher'></a>
 
 
 |  I serve my local community as the chair of The Columbia Vision Commission, chair of The Mayor's Council on Physical Fitness and Health, and as an EMS Responder with Boone County Fire Protection District.| 
