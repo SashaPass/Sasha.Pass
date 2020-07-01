@@ -2,7 +2,7 @@
 <img width="178" alt="profilepic" src="https://user-images.githubusercontent.com/26466943/77710379-d1481e80-6f9b-11ea-93bd-fc592fe9efd7.JPG">
 
 
-I have been in the IT industry for 8 years. I have worked in multiple areas, including service delivery, product management, and developer advocacy. My roles have involved data science, process improvement, lean six sigma, agile, project management, finance, event management, and professional coaching. 
+I have been in the IT industry for 8 years. I have worked in multiple areas, including service delivery, product management, and developer advocacy. My roles have involved data science, process improvement, lean six sigma, agile, project management, finance, event management, and professional coaching. I am very lucky to be leading very exciting tech for good projects including [Call for Code](https://developer.ibm.com/callforcode/), [Open Source Community Grant](https://developer.ibm.com/blogs/pionerasdev-wins-ibm-oscg-increase-participation-women-programming/), and [Build Smart on Kubernetes World Tour](https://developer.ibm.com/openshift-world-tour/)
 
 I have also worked in the healthcare industry working directly with patients, insurance companies, and interested parties to improve patient care.
 
