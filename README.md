@@ -16,7 +16,7 @@ I have also worked in the healthcare industry working directly with patients, in
 
 | Above all else, I am a wife and a proud mother of 3 beautiful children (Shamar, Shayla, Samaya) |
 | --- |
-| ![family photo](https://user-images.githubusercontent.com/26466943/95933495-535f2f80-0d94-11eb-96cb-2f742adadbad.jpeg)|
+| ![familyphoto2](https://user-images.githubusercontent.com/26466943/95933661-bc46a780-0d94-11eb-86d9-1e01bd3f82ba.jpeg)|
 
 
 
