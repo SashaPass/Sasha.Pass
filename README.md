@@ -2,7 +2,7 @@
 <img width="178" alt="profilepic" src="https://user-images.githubusercontent.com/26466943/77710379-d1481e80-6f9b-11ea-93bd-fc592fe9efd7.JPG">
 
 
-I have been with IBM for 8 years. I have worked across many IBM organizations including GTS Service Delivery, Watson Offering Management, and most currently IBM Developer Ecosystems. I have lead many initiatives that involve agile methodolgies, business transformation, process improvement, lean six sigma, finance and operations, and event management. I am known for my effective agile project leadership, organizing a team toward a common goal, and “getting things done”
+I have been with IBM for 8 years and have worked across many business units including IT Service Delivery, Product Management, and most currently Developer Ecosystems. I have lead many initiatives that involve agile methodologies, business transformation, process improvement, lean six sigma, finance and operations, and event management. I am known for my effective agile project leadership, organizing a team toward a common goal, and “getting things done”
 
 Before IBM, I was in the healthcare and insurance industry working directly with patients, insurance companies, and stakeholders to improve patient care.
 
