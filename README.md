@@ -2,9 +2,11 @@
 <img width="178" alt="profilepic" src="https://user-images.githubusercontent.com/26466943/77710379-d1481e80-6f9b-11ea-93bd-fc592fe9efd7.JPG">
 
 
-I have been with IBM for 8 years and have worked across many business units including IT Service Delivery, Product Management, and most currently Developer Ecosystems. I have lead many initiatives that involve agile methodologies, business transformation, process improvement, lean six sigma, finance and operations, and event management. I am known for my effective agile project leadership, organizing a team toward a common goal, and “getting things done”
+Certified Project Management Professional (PMP) with over 5 + years of experience in IT service delivery, product management, and open source. Effective servant leader of social good initiatives and business transformation projects, most recently for IBM's open-source developer ecosystem. Known for nurturing diverse, cross-functional teams to achieve business value in an agile way. 
 
-Before IBM, I was in the healthcare and insurance industry working directly with patients, insurance companies, and stakeholders to improve patient care.
+I am a trained insurance case manager, nursing aid, licensed emergency medical technician, and health and wellness advocate. I have worked directly with patients, hospital staff, and insurance companies to improve patient care. I have cared for patients in pre-hospital, hospital, and post-hospital settings. I am known for creating and supporting a healthy and inclusive culture in a professional environment and my community.
+
+
 
 My most recent projects include:
 - [Call for Code for Racial Justice](https://developer.ibm.com/callforcode/racial-justice/)
@@ -12,7 +14,11 @@ My most recent projects include:
 - [Open Source Community Grant](https://developer.ibm.com/blogs/pionerasdev-wins-ibm-oscg-increase-participation-women-programming/)
 - [Build Smart on Kubernetes World Tour](https://developer.ibm.com/openshift-world-tour/)
 
-I have also worked in the healthcare industry working directly with patients, insurance companies, and stakeholders with a goal to improve patient care.
+
+Highlights of my past work include:
+- Led the Initiating, planning, and executing a [Zumba Glow Party](https://www.facebook.com/events/685403928513122/) event for my local community in my capacity as the chair of the City of Columbia Mayor's Council on Physical Fitness and Health       
+- Led the Initiating, planning, and executing the [Mayor's Council on Physical Fitness and Health awards](https://www.facebook.com/LetsMoveCoMo/posts/2743132742409099/) for in my capacity as the chair of the City of Columbia Mayor's Council on Physical Fitness and Health
+- Facilitated community [Strategic Plan Focus Groups](http://gocolumbiamo.legistar1.com/gocolumbiamo/attachments/5ed89044-d63f-443d-ada5-b752bc970fa0.pdf) as well as followed up with [a report](https://gocolumbiamo.legistar.com/LegislationDetail.aspx?ID=4154871&GUID=F3847152-C230-4977-A63E-DE879876C689&Options=&Search=) on recommended actions for the City Council 
 
 <a href="https://app.wiseher.com/listing/sasha-pass.html"><img height='200' width='200' src='https://app.wiseher.com/custom/domain_1/content_files/badge.png' alt='wiseher'></a>
 
