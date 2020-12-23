@@ -18,8 +18,8 @@ My most recent projects include:
 Highlights of my past work include:
 - Led the Initiating, planning, and executing a [Zumba Glow Party](https://www.facebook.com/events/685403928513122/) event for my local community in my capacity as the chair of the City of Columbia Mayor's Council on Physical Fitness and Health       
 - Led the Initiating, planning, and executing the [Mayor's Council on Physical Fitness and Health awards](https://www.facebook.com/LetsMoveCoMo/posts/2743132742409099/) for in my capacity as the chair of the City of Columbia Mayor's Council on Physical Fitness and Health
-- Facilitated community [Strategic Plan Focus Groups](http://gocolumbiamo.legistar1.com/gocolumbiamo/attachments/5ed89044-d63f-443d-ada5-b752bc970fa0.pdf) as well as followed up with [a report](https://gocolumbiamo.legistar.com/LegislationDetail.aspx?ID=4154871&GUID=F3847152-C230-4977-A63E-DE879876C689&Options=&Search=) on recommended actions for the City Council 
-- Recipeint of [The Phoenix Award](https://user-images.githubusercontent.com/26466943/103028601-b6e8a480-451d-11eb-9da3-52e37391c7d9.png) for outstanding performance in pre-hospital medical care. 
+- Facilitated community [Strategic Plan Focus Groups](http://gocolumbiamo.legistar1.com/gocolumbiamo/attachments/5ed89044-d63f-443d-ada5-b752bc970fa0.pdf) and followed up with [a report](https://gocolumbiamo.legistar.com/LegislationDetail.aspx?ID=4154871&GUID=F3847152-C230-4977-A63E-DE879876C689&Options=&Search=) to the Mayor and City Council members on recommended actions.
+- Recipient of [The Phoenix Award](https://user-images.githubusercontent.com/26466943/103028601-b6e8a480-451d-11eb-9da3-52e37391c7d9.png) for outstanding performance in pre-hospital medical care. 
 
 <a href="https://app.wiseher.com/listing/sasha-pass.html"><img height='200' width='200' src='https://app.wiseher.com/custom/domain_1/content_files/badge.png' alt='wiseher'></a>
 
