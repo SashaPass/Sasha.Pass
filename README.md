@@ -4,9 +4,10 @@
 ![Picture1](https://user-images.githubusercontent.com/26466943/120836083-c9cebe80-c52a-11eb-94af-ee4da120fba4.png)
 
 
-Certified Project Management Professional (PMP) with 9 + years of experience in IT service delivery, product management, and open source. Effective servant leader of social good initiatives and business transformation projects, most recently for IBM's open-source developer ecosystem. Known for nurturing diverse, cross-functional teams to achieve business value in an agile way. I am known for creating and supporting a healthy and inclusive culture in a professional environment and my community.
+Certified Project Management Professional (PMP) with 9 + years of experience in IT service delivery, software product management, open source, and developer engagement. Effective servant leader of social good initiatives and business transformation projects, most recently for IBM's open-source developer ecosystem. 
+Known for nurturing diverse, cross-functional teams to achieve business value in an agile way, and fostering a wellness and inclusive culture.
 
-I am a trained insurance case manager, nursing aid, licensed emergency medical technician, and health and wellness advocate. I have worked directly with patients, hospital staff, and insurance companies to improve patient care. I have cared for patients in pre-hospital, hospital, and post-hospital settings. 
+Trained insurance case manager, nursing aid, licensed emergency medical technician, and health and wellness advocate. Have worked directly with patients, hospital staff, and insurance companies to improve patient care. Have cared for patients in pre-hospital, hospital, and post-hospital settings. 
 
 
 
