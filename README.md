@@ -17,7 +17,7 @@ Highlights of past work:
 
 - Led the creation and execution of the [Open Source Community Grant](https://developer.ibm.com/blogs/pionerasdev-wins-ibm-oscg-increase-participation-women-programming/), a grassroots program designed to bring much-needed diversity to the Open Source Community. During my leadership, this initiative reached 60+ non-profits, engaged 1000+ IBM employees worldwide, and reached 25,000+ developers.
 
-- Led the creation and execution of the [Build Smart on Kubernetes World Tour](https://developer.ibm.com/openshift-world-tour/), a program to provide learning opportunities for those interested in building, running, and managing cloud-native applications with Kubernetes. During my leadership, this initiative reached over 5,000 developers. 
+- Led the creation and execution of the [Build Smart on Kubernetes World Tour](https://developer.ibm.com/openshift-world-tour/), a program to provide learning opportunities for those interested in building, running, and managing cloud-native applications with Kubernetes. During my leadership, this initiative reached 5,000+ developers. 
 
 - As chair of the City of Columbia Mayor's Council on Physical Fitness and Health, Led the planning, and executing of the [Mayor's Council on Physical Fitness and Health awards](https://www.facebook.com/LetsMoveCoMo/posts/2743132742409099/)
 
