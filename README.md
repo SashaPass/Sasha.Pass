@@ -13,7 +13,7 @@ Trained insurance case manager, nursing aid, licensed emergency medical technici
 Highlights of past work:
 - Led the creation and execution of [Call for Code for Racial Justice](https://developer.ibm.com/callforcode/racial-justice/), a social justice initiative designed to empower technologists to combat social injustice. At Launch, this initiative engaged 7,000+ people. 
 
-- Served as Program Manager and Agile coach for [Call for Code](https://developer.ibm.com/callforcode/), a social-good initiative to use technology to fight against the most pressing global issues of our time. During my leadership the program reache 500,000+ developers.
+- Served as Program Manager and Agile coach for [Call for Code](https://developer.ibm.com/callforcode/), a social-good initiative to use technology to fight against the most pressing global issues of our time. During my leadership the program reached 400,000+ developers.
 
 - Led the creation and execution of the [Open Source Community Grant](https://developer.ibm.com/blogs/pionerasdev-wins-ibm-oscg-increase-participation-women-programming/), a grassroots program designed to bring much-needed diversity to the Open Source Community. During my leadership, this initiative reached 60+ non-profits, engaged 1000+ IBM employees worldwide, and reached 25,000+ developers.
 
