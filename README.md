@@ -31,7 +31,7 @@ Highlights of past work:
 
 
 
-| I serve my local community as the chair of The Columbia Vision Commission and chair of The Mayor's Council on Physical Fitness and Health.  Above all else, I am a wife and a proud mother of 3 beautiful children. |
+| Above all else, I am a wife and a proud mother of 3 beautiful children. |
 | --- |
 | ![familyphoto2](https://user-images.githubusercontent.com/26466943/95933661-bc46a780-0d94-11eb-86d9-1e01bd3f82ba.jpeg)|
 
