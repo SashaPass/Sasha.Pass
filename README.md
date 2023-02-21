@@ -6,7 +6,7 @@
 
 [Certified Project Management Professional](https://www.credly.com/badges/0afdf5fe-b237-4b7d-a105-e6b56ca78df1?source=linked_in_profile) with 10 + years of experience in IT service and software delivery. [Agile Certified Practioner](https://www.credly.com/badges/10826eb9-807a-42f4-a3a0-a61a5c8d9c22?source=linked_in_profile) and effective servant leader known for nurturing diverse, cross-functional teams to achieve business value in an agile way.  Business coach and culture champion known for fostering employee wellness and inclusive culture.
 
-Passionate Mental Health Technician with previous experience in Nursing Aid, Licensed Emergency Medical Technician, insurance case manager, and health and wellness advocate, having worked directly with patients, hospital staff, and insurance companies to improve patient care. Have cared for patients in pre-hospital, hospital, and post-hospital settings. 
+Passionate Mental Health Technician with previous experience as a Nursing Aid, Licensed Emergency Medical Technician, insurance case manager, and health and wellness advocate. Have cared for patients in pre-hospital, hospital, and post-hospital settings. 
 
 
 
