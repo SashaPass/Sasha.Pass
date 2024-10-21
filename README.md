@@ -3,12 +3,9 @@
 
 ![Picture1](https://user-images.githubusercontent.com/26466943/120836083-c9cebe80-c52a-11eb-94af-ee4da120fba4.png)
 
+[Certified Project Management Professional](https://www.credly.com/badges/0afdf5fe-b237-4b7d-a105-e6b56ca78df1?source=linked_in_profile) with 10 + years of experience in IT service and software delivery. [Agile Practioner](https://www.credly.com/badges/10826eb9-807a-42f4-a3a0-a61a5c8d9c22?source=linked_in_profile) and servant leader, recognized for building and nurturing high-performing, cross-functional teams that consistently deliver business value.
 
-[Certified Project Management Professional](https://www.credly.com/badges/0afdf5fe-b237-4b7d-a105-e6b56ca78df1?source=linked_in_profile) with 10 + years of experience in IT service and software delivery. [Agile Certified Practioner](https://www.credly.com/badges/10826eb9-807a-42f4-a3a0-a61a5c8d9c22?source=linked_in_profile) and effective servant leader known for nurturing diverse, cross-functional teams to achieve business value in an agile way.  Business coach and culture champion known for fostering employee wellness and inclusive culture.
-
-Passionate Mental Health Technician with previous experience as a Nursing Aid, Licensed Emergency Medical Technician, insurance case manager, and health and wellness advocate. Have cared for patients in pre-hospital, hospital, and post-hospital settings. 
-
-
+My experience as a Mental Health Technician and Emergency Medical Technician has enabled me to lead with empathy, actively support team dynamics, and advocate for holistic employee well-being in fast-paced environments.
 
 Highlights of past work:
 - Led the creation and execution of [Call for Code for Racial Justice](https://developer.ibm.com/callforcode/racial-justice/), a social justice initiative designed to empower technologists to combat social injustice. At Launch, this initiative engaged 7,000+ people. 
